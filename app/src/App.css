@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background: rgb(#d1bddc);
+ background: linear-gradient(180deg, #d1bddc 36%,   #debbd0 92%) 
+ fixed;
+}
+
+input{
+  text-align: center;
+  outline-color: #2e4045;  
+  color: #99cdd9;
+  font-family: 'Raleway', sans-serif;
+  font-size: 4em;
+}
+
+p{
+  color: #c27ba0;
+  font-size: 6em;
+  font-family: 'Sigmar One', cursive;
+}
+
+.App{
+  margin: 100px;
+
+}
+
+h3{
+  font-family: 'Press Start 2P', cursive;
+  color:    #4495a7;
+}
